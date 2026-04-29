@@ -1,6 +1,4 @@
-# Awesome Developer Tools Subreddits
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Developer Tools Subreddits [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 The communities where developers compare APIs, debug at 2am, share war stories from production, and quietly decide which tool gets adopted next quarter. Curated for marketers, founders, and DevRel teams at developer-tool SaaS companies who want to be in the room without getting permabanned the first week.
 
@@ -15,20 +13,20 @@ The communities where developers compare APIs, debug at 2am, share war stories f
 - [Who this list is for](#who-this-list-is-for)
 - [How we picked these eight](#how-we-picked-these-eight)
 - [The shortlist](#the-shortlist)
-  1. [r/sysadmin](#1-rsysadmin)
-  2. [r/webdev](#2-rwebdev)
-  3. [r/MachineLearning](#3-rmachinelearning)
-  4. [r/Python](#4-rpython)
-  5. [r/javascript](#5-rjavascript)
-  6. [r/programming](#6-rprogramming)
-  7. [r/learnprogramming](#7-rlearnprogramming)
-  8. [r/techsupport](#8-rtechsupport)
+  - [r/sysadmin](#rsysadmin)
+  - [r/webdev](#rwebdev)
+  - [r/MachineLearning](#rmachinelearning)
+  - [r/Python](#rpython)
+  - [r/javascript](#rjavascript)
+  - [r/programming](#rprogramming)
+  - [r/learnprogramming](#rlearnprogramming)
+  - [r/techsupport](#rtechsupport)
 - [Posting playbook for dev-tool marketers](#posting-playbook-for-dev-tool-marketers)
 - [FAQ](#faq)
 - [Subreddits we considered and didn't include](#subreddits-we-considered-and-didnt-include)
 - [Further reading](#further-reading)
 - [Related lists](#related-lists)
-- [License](#license)
+- [Live version with brand-mention data](#live-version-with-brand-mention-data)
 
 ---
 
@@ -57,9 +55,9 @@ Order is by editorial fit for dev-tool marketing, not by subscriber count. The s
 
 ## The shortlist
 
-### 1. r/sysadmin
+### r/sysadmin
 
-**~850K subscribers · [reddit.com/r/sysadmin](https://www.reddit.com/r/sysadmin/)**
+~850K subscribers · [reddit.com/r/sysadmin](https://www.reddit.com/r/sysadmin/)
 
 The single highest-buying-intent sub on this list. Sysadmins recommend tools their employer pays for, and r/sysadmin is one of the most consistently vendor-aware, vendor-skeptical, and decision-influential communities on Reddit.
 
@@ -69,9 +67,9 @@ The single highest-buying-intent sub on this list. Sysadmins recommend tools the
 
 ---
 
-### 2. r/webdev
+### r/webdev
 
-**~2.5M subscribers · [reddit.com/r/webdev](https://www.reddit.com/r/webdev/)**
+~2.5M subscribers · [reddit.com/r/webdev](https://www.reddit.com/r/webdev/)
 
 The consensus #1 sub on every dev-tool list, and rightly so. Skews freelance/agency/junior-to-mid full-stack, which is the perfect audience for hosting, deployment, headless CMS, no-code adjacents, monitoring, and design tooling.
 
@@ -81,9 +79,9 @@ The consensus #1 sub on every dev-tool list, and rightly so. Skews freelance/age
 
 ---
 
-### 3. r/MachineLearning
+### r/MachineLearning
 
-**~3M subscribers · [reddit.com/r/MachineLearning](https://www.reddit.com/r/MachineLearning/)**
+~3M subscribers · [reddit.com/r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 
 The flagship academic-leaning ML sub on Reddit. The most credentialed audience of any sub on this list and the lowest tolerance for hype. If you sell ML infra, vector DBs, model serving, eval tooling, or research utilities, this is your primary surface.
 
@@ -93,9 +91,9 @@ The flagship academic-leaning ML sub on Reddit. The most credentialed audience o
 
 ---
 
-### 4. r/Python
+### r/Python
 
-**~2.5M subscribers · [reddit.com/r/Python](https://www.reddit.com/r/Python/)**
+~2.5M subscribers · [reddit.com/r/Python](https://www.reddit.com/r/Python/)
 
 Notably more permissive than r/programming for project shares and library announcements, but still heavily moderated. The natural home for any Python-touching dev tool: data tooling, ML infra, web frameworks, packaging, IDE plugins, FaaS.
 
@@ -105,9 +103,9 @@ Notably more permissive than r/programming for project shares and library announ
 
 ---
 
-### 5. r/javascript
+### r/javascript
 
-**~2.5M subscribers · [reddit.com/r/javascript](https://www.reddit.com/r/javascript/)**
+~2.5M subscribers · [reddit.com/r/javascript](https://www.reddit.com/r/javascript/)
 
 Smaller-feeling than its subscriber count suggests because the mods deliberately throttle low-effort submissions. Heavily curated, with an "approved submitter" model that for years allowed only flagged users to submit links. Worth posting in for any JavaScript-runtime, tooling, framework, or build-tool product.
 
@@ -117,9 +115,9 @@ Smaller-feeling than its subscriber count suggests because the mods deliberately
 
 ---
 
-### 6. r/programming
+### r/programming
 
-**~6.6M subscribers · [reddit.com/r/programming](https://www.reddit.com/r/programming/)**
+~6.6M subscribers · [reddit.com/r/programming](https://www.reddit.com/r/programming/)
 
 The largest dedicated programming community on Reddit and the most marketed-to. Famously trigger-happy mods, an audience of senior cynical engineers, and the lowest organic-marketing success rate of any major dev sub.
 
@@ -129,9 +127,9 @@ The largest dedicated programming community on Reddit and the most marketed-to. 
 
 ---
 
-### 7. r/learnprogramming
+### r/learnprogramming
 
-**~4.5M subscribers · [reddit.com/r/learnprogramming](https://www.reddit.com/r/learnprogramming/)**
+~4.5M subscribers · [reddit.com/r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
 
 The largest beginner programming community on Reddit. Friendly, FAQ-driven, AutoMod-heavy, and almost entirely the wrong audience for paid dev tools.
 
@@ -141,7 +139,7 @@ The largest beginner programming community on Reddit. Friendly, FAQ-driven, Auto
 
 ---
 
-### 8. r/techsupport
+### r/techsupport
 
 **Several million subscribers · [reddit.com/r/techsupport](https://www.reddit.com/r/techsupport/)**
 
@@ -179,32 +177,25 @@ The honest summary: dev-tool marketing on Reddit is a 6-9 month investment to fi
 
 ## FAQ
 
-### What about r/devops, r/aws, r/kubernetes?
-
+### What about r/devops, r/aws, r/kubernetes
 Glaring absences from this list, and we know it. r/devops (~400K) is arguably the single highest-buying-intent sub for infra, observability, CI, and cost dev tools. r/aws (~365K) is the largest cloud-tool community on Reddit. r/kubernetes (~312K combined with adjacents) is the infra-tooling specialty audience. They're not in soar's current shortlist because the shortlist over-indexes on the broadest language and operator subs. For your 90-day Reddit plan, treat r/devops, r/aws, r/kubernetes, and r/dataengineering as priority targets alongside this list. We cover them more deeply in the [related lists](#related-lists) section.
 
-### How do I get my first dev-tool post past AutoMod?
-
+### How do I get my first dev-tool post past AutoMod
 Two prerequisites: (1) the account is at least 30 days old with 100+ karma earned in non-target subs, and (2) the post body is at least 500 words of substantive content with no link in the first half. If either fails, the post will be filtered for review and most likely removed. The new-account problem is solvable by spending Month 1 in lower-stakes subs (r/learnprogramming, r/AskProgramming) building genuine karma; the post-quality problem is solvable by writing the post as a technical document first and only adding the tool mention in the last paragraph.
 
-### What's the realistic timeline before Reddit produces leads for a dev tool?
-
+### What's the realistic timeline before Reddit produces leads for a dev tool
 Six to nine months from first comment to first measurable lead. The dev.to "[3 months of Reddit marketing](https://dev.to/short_playskits_ab152535/what-3-months-of-reddit-marketing-actually-looks-like-for-a-solo-dev-24cb)" writeup from a solo dev reported 20% of signups from Reddit by Month 3 with daily 30-minute investment. That's the upper end. Most teams take longer because they don't have a single dedicated engineer doing the work daily. If your runway is shorter than three months, Reddit isn't your channel; performance ads are.
 
-### Can I use Reddit Ads instead of organic for dev-tools?
-
+### Can I use Reddit Ads instead of organic for dev-tools
 Reddit Ads work for dev-tool launches if your creative is in-culture (memes, screenshot-style ads, problem-statement copy) and you target language and tool-specific subs. Markepear's catalog of dev-tool ads documents successful campaigns from Sentry, Aikido Security, WarpStream, Zesty, Featureform, and Latitude. The trap is treating Reddit Ads like LinkedIn Ads: corporate creative tanks. The most effective Reddit Ads from the catalog use Reddit-screenshot styling, in-jokes, and zero stock imagery.
 
-### Which sub should a brand-new dev-tool launch in first?
-
+### Which sub should a brand-new dev-tool launch in first
 If you're a hosted infra or deployment tool, r/sysadmin or r/selfhosted (the latter not on this list, see "considered" below). If you're a Python library or package, the weekly "What's Everyone Working On" thread in r/Python. If you're a web/frontend framework or build tool, Showoff Saturday in r/javascript or r/webdev. If you're an ML infra or vector DB, r/MachineLearning with proper [P] tagging and benchmarks. Don't launch in r/programming first; the failure rate is too high for a debut.
 
-### Do I need to disclose I work on the tool I'm posting about?
-
+### Do I need to disclose I work on the tool I'm posting about
 Yes, in the first sentence. The downside (10% upvote loss, occasional snark in comments) is far smaller than the downside of being caught not disclosing (account ban, sub-wide blacklist of your domain, sometimes cross-sub coordination by mods). Disclosure is a feature of credibility on Reddit, not a tax.
 
-### What gets me permabanned?
-
+### What gets me permabanned
 Three things, in order of frequency: (1) creating multiple accounts to upvote or comment on your own posts (vote manipulation, the most severe site-wide offense), (2) repeatedly posting in your own subreddit-promo cycle without any non-promotional contribution between posts, and (3) cross-sub coordination by mods who've identified you as a known bad actor in another community. The first one will get you nuked across all of Reddit; the second and third just kill your effectiveness in target subs.
 
 ---
@@ -224,22 +215,22 @@ A note on what's not here and why, since most "best of" lists don't show their w
 
 ## Further reading
 
-- [Indie Hackers: 500 banned posts analyzed](https://www.indiehackers.com/post/analyzed-500-reddit-posts-that-got-banned-73-failed-for-the-same-reason-and-it-s-not-what-you-think-Y5JloVysPICuN2rOliIT). Source for per-sub removal-rate numbers across the broader Reddit ecosystem.
-- [Foundation Inc: The Marketer's Guide to Reddit Moderators](https://foundationinc.co/lab/marketers-guide-reddit-moderators). The clearest articulation of how mod teams shape what gets through.
-- [Markepear: Dev Tool Reddit Marketing Examples](https://www.markepear.dev/examples/reddit). Catalog of real dev-tool campaigns (Latitude, Zesty, WarpStream, Sentry, Flagsmith, PubNub, Aikido, Featureform) with what worked and why.
-- [Daily.dev: How to Market Developer Tools on Reddit](https://business.daily.dev/resources/how-to-market-developer-tools-on-reddit-practical-guide/). Practical playbook from the developer-news platform.
-- [Prowlo: Reddit Marketing for DevTools](https://prowlo.com/blog/reddit-marketing-devtools). Per-sub difficulty ratings and the "elephant memories" warning about long-term reputation.
-- [Conbersa: Best Subreddits for Developer Marketing in 2026](https://www.conbersa.ai/learn/best-subreddits-for-developers). The strongest competing list, with per-sub angles and pitches.
-- [Reddit for Community: How r/sysadmin built their community to 800K+](https://redditforcommunity.com/blog/community-stories/sysadmin). Direct mod-team philosophy from u/mkosmo.
+- [Indie Hackers: 500 banned posts analyzed](https://www.indiehackers.com/post/analyzed-500-reddit-posts-that-got-banned-73-failed-for-the-same-reason-and-it-s-not-what-you-think-Y5JloVysPICuN2rOliIT) - Source for per-sub removal-rate numbers across the broader Reddit ecosystem.
+- [Foundation Inc: The Marketer's Guide to Reddit Moderators](https://foundationinc.co/lab/marketers-guide-reddit-moderators) - The clearest articulation of how mod teams shape what gets through.
+- [Markepear: Dev Tool Reddit Marketing Examples](https://www.markepear.dev/examples/reddit) - Catalog of real dev-tool campaigns (Latitude, Zesty, WarpStream, Sentry, Flagsmith, PubNub, Aikido, Featureform) with what worked and why.
+- [Daily.dev: How to Market Developer Tools on Reddit](https://business.daily.dev/resources/how-to-market-developer-tools-on-reddit-practical-guide/) - Practical playbook from the developer-news platform.
+- [Prowlo: Reddit Marketing for DevTools](https://prowlo.com/blog/reddit-marketing-devtools) - Per-sub difficulty ratings and the "elephant memories" warning about long-term reputation.
+- [Conbersa: Best Subreddits for Developer Marketing in 2026](https://www.conbersa.ai/learn/best-subreddits-for-developers) - The strongest competing list, with per-sub angles and pitches.
+- [Reddit for Community: How r/sysadmin built their community to 800K+](https://redditforcommunity.com/blog/community-stories/sysadmin) - Direct mod-team philosophy from u/mkosmo.
 
 ---
 
 ## Related lists
 
-- [Awesome Subreddits hub](https://github.com/soarsh/awesome-subreddits): index of all our curated lists.
-- [Awesome B2B SaaS Subreddits](https://github.com/soarsh/awesome-b2b-saas-subreddits): for SaaS targeting non-developer buyers.
-- [Awesome Productivity Subreddits](https://github.com/soarsh/awesome-productivity-subreddits): for dev-tool subsets that lean toward workflow optimization.
-- [Awesome Fintech Subreddits](https://github.com/soarsh/awesome-fintech-subreddits): for dev-tool vendors selling into fintech.
+- [Awesome Subreddits hub](https://github.com/soarsh/awesome-subreddits) - Index of all our curated lists.
+- [Awesome B2B SaaS Subreddits](https://github.com/soarsh/awesome-b2b-saas-subreddits) - For SaaS targeting non-developer buyers.
+- [Awesome Productivity Subreddits](https://github.com/soarsh/awesome-productivity-subreddits) - For dev-tool subsets that lean toward workflow optimization.
+- [Awesome Fintech Subreddits](https://github.com/soarsh/awesome-fintech-subreddits) - For dev-tool vendors selling into fintech.
 
 ## Live version with brand-mention data
 
@@ -251,6 +242,3 @@ The live page on Soar tracks which brands ChatGPT and Google AI Overviews cite a
 
 Spotted a missing subreddit, a stale removal-rate observation, or a mod-rule change? [Open an issue](../../issues) or [submit a PR](../../pulls). See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License
-
-Content under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Copy, adapt, and republish freely. Attribution appreciated, not required.
