@@ -1,5 +1,7 @@
 # Awesome Developer Tools Subreddits
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 The communities where developers compare APIs, debug at 2am, share war stories from production, and quietly decide which tool gets adopted next quarter. Curated for marketers, founders, and DevRel teams at developer-tool SaaS companies who want to be in the room without getting permabanned the first week.
 
 > **About this list.** Maintained by [Soar](https://soar.sh). We sell Reddit accounts and run engagement campaigns for B2B and consumer brands, so we have direct skin in the game on what works in these communities. The commentary on mod culture, removal rates, and what gets banned comes from running real campaigns across hundreds of subreddits, not desk research.
